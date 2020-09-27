@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-default {
+    background-color: gray !important;
+    border-color: black !important;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.box {
+    background-color: lightgray;
+    /* margin: 5px; */
+}
+
+.box h2 {
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.content {
+    padding-left: 10px;
+}
